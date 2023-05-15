@@ -1,4 +1,5 @@
-### Hi, My name is Anuj Naresh Chetwani. I am currently a graduate student at NC State University.
+### Anuj Naresh Chetwani
+## Hi
 
 <!--
 **anuj672/anuj672** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
