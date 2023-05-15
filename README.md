@@ -1,5 +1,5 @@
 ### Anuj Naresh Chetwani
-## Hi
+
 
 <!--
 **anuj672/anuj672** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
