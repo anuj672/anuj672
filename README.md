@@ -1,9 +1,8 @@
 ### Anuj Naresh Chetwani
 
-Software enthusiast and graduate student with a focus on machine learning, software development, and data science. Actively contributing to open-source projects related to machine learning, data analysis, and software development.
+I'm Anuj Naresh Chetwani, a graduate student at North Carolina State University with a passion for software development, machine learning, and data science. Currently, my focus is on code migrations, database management and the implementation of GANs. Additionally, I'm expanding my skills by learning web development, DataOps, MLops, and DevOps. During my free time, I enjoy practicing dynamic programming and exploring various developer patterns.
 
-- 🔭 I’m currently working on data migrations, implementing GANs and 
-- 🌱 I’m currently learning DataOps, MLops and Devops. In my free time I like to practise dynamic programming and revist different developer patterns.
-- 👯 I’m looking to collaborate on projects where I can help with implementing automation and deployment strategies for seamless software delivery and ideas about creating innovative solutions by combining machine learning algorithms with software engineering practices.
-- 📫 How to reach me: achetwa@ncsu.edu 
+I'm eager to collaborate on projects where I can contribute my expertise in implementing automation and deployment strategies for seamless software delivery. I'm also interested in exploring innovative solutions that combine machine learning algorithms with software engineering practices.
+
+Feel free to reach out to me at achetwa@ncsu.edu to discuss potential collaborations or to connect. I'm always excited to engage in discussions related to my areas of interest.
 
