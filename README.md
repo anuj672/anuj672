@@ -8,8 +8,6 @@ I'm passionate about technology and coding. I enjoy crafting solutions and explo
 - ☁️ Software engineering
 - 📈 Data Science
 
-## 🚀 Work Experience
-
 ## 💼 Work Experience
 
 ### Colorcon Inc
