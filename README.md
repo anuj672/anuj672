@@ -1,7 +1,27 @@
-### Anuj Naresh Chetwani
+# Hi there, I'm Anuj! 👋
 
-I'm Anuj Naresh Chetwani, a graduate student at North Carolina State University with a passion for software development, DevOps, and data science. Currently, my focus is on code migrations, database management and the implementation of GANs. Additionally, I'm expanding my skills by learning web development, DataOps, MLops, and DevOps. 
+I'm passionate about technology and coding. I enjoy crafting solutions and exploring new tech horizons.
 
-I'm eager to collaborate on projects where I can contribute my expertise in implementing automation and deployment strategies for seamless software delivery. I'm also interested in exploring innovative solutions that combine machine learning algorithms with software engineering practices.
+## 🌟 What I Do
 
-Feel free to reach out to me at achetwa@ncsu.edu to discuss potential collaborations or to connect. I'm always excited to engage in discussions related to my areas of interest and make open source contributions. 
+- 🚀 DevOps and Automation
+- ☁️ Software engineering
+- 📈 Data Science
+
+## 🚀 Work Experience
+
+## 💼 Work Experience
+
+### Colorcon Inc
+- Software Engineer Intern
+- Jenkins pipelines, Git security, and automation.
+
+### HSBC
+- GCP DevOps Engineer
+- Cloud automation, team coordination, and GCP operations.
+
+## 📫 Let's Connect
+
+Feel free to reach out for tech discussions or collaboration!
+
+[LinkedIn](https://www.linkedin.com/in/anuj-chetwani/)
