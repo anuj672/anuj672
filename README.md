@@ -26,5 +26,6 @@ Feel free to reach out for tech discussions or collaboration!
 
 Starting May 2024 I am looking for full time oportunities in software dvelopment and DevOps.
 
+## Contact me 
 [LinkedIn](https://www.linkedin.com/in/anuj-chetwani/)
-[email](achetwa@ncsu.edu)
+Email: achetwa@ncsu.edu
