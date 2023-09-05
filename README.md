@@ -1,6 +1,6 @@
 # Hi there, I'm Anuj! 👋
 
-I'm passionate about technology and coding. I am currently a graduate student at NCSU where I am focusing on the aspects of security and cloud when building applications. I enjoy crafting solutions and exploring new tech horizons.
+I'm passionate about automation,technology and coding. I am currently a graduate student at NCSU where I am focusing on the aspects of security and cloud when building applications. I enjoy crafting solutions and exploring new tech horizons.
 
 ## 🌟 What I Do
 
