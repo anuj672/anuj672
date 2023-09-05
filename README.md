@@ -1,6 +1,6 @@
 # Hi there, I'm Anuj! 👋
 
-I'm passionate about technology and coding. I enjoy crafting solutions and exploring new tech horizons.
+I'm passionate about technology and coding. I am currently a graduate student at NCSU where I am focusing on the aspects of security and cloud when building applications. I enjoy crafting solutions and exploring new tech horizons.
 
 ## 🌟 What I Do
 
@@ -22,4 +22,8 @@ I'm passionate about technology and coding. I enjoy crafting solutions and explo
 
 Feel free to reach out for tech discussions or collaboration!
 
+## What I am looking for?
+
+Starting May 2024 I am looking for full time oportunities in software dvelopment and DevOps. 
 [LinkedIn](https://www.linkedin.com/in/anuj-chetwani/)
+[email](achetwa@ncsu.edu)
