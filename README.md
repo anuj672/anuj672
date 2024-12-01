@@ -21,9 +21,6 @@ I'm passionate about automation,technology and coding. I am currently a graduate
 
 Feel free to reach out for tech discussions or collaboration!
 
-## What I am looking for?
-
-Starting May 2024 I am looking for full time oportunities in software dvelopment and DevOps.
 
 ## Contact me 
 - [LinkedIn](https://www.linkedin.com/in/anuj-chetwani/)
