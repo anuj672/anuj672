@@ -1,4 +1,4 @@
-# Hi there, I'm Anuj! 👋
+# Anuj Naresh Chetwani
 
 I'm passionate about automation,technology and coding. I am currently a graduate student at NCSU where I am focusing on the aspects of security and cloud when building applications.
 ## 🌟 What I Do
